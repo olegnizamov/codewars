@@ -14,3 +14,4 @@
 12. [Interview Question (easy) 7 kyu](https://www.codewars.com/kata/5b358a1e228d316283001892) - DONE
 13. [RGB To Hex Conversion 5 kyu](https://www.codewars.com/kata/513e08acc600c94f01000001) - DONE
 14. [Number Zoo Patrol 6 kyu](https://www.codewars.com/kata/5276c18121e20900c0000235) - DONE
+15. [Counting Duplicates 6 kyu](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1) - DONE
