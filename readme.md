@@ -15,3 +15,4 @@
 13. [RGB To Hex Conversion 5 kyu](https://www.codewars.com/kata/513e08acc600c94f01000001) - DONE
 14. [Number Zoo Patrol 6 kyu](https://www.codewars.com/kata/5276c18121e20900c0000235) - DONE
 15. [Counting Duplicates 6 kyu](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1) - DONE
+16. [Unique In Order 6 kyu](https://www.codewars.com/kata/54e6533c92449cc251001667) - DONE
