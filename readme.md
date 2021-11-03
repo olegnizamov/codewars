@@ -19,3 +19,4 @@
 16. [Kebabize 6 kyu](https://www.codewars.com/kata/57f8ff867a28db569e000c4a) - DONE
 16. [Detect Pangram 6 kyu](https://www.codewars.com/kata/545cedaa9943f7fe7b000048) - DONE
 17. [Find the odd int 6 kyu](https://www.codewars.com/kata/54da5a58ea159efa38000836) - DONE
+18. [Build a pile of Cubes 6 kyu](https://www.codewars.com/kata/5592e3bd57b64d00f3000047) - DONE
