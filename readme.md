@@ -16,7 +16,7 @@
 14. [Number Zoo Patrol 6 kyu](https://www.codewars.com/kata/5276c18121e20900c0000235) - DONE
 15. [Counting Duplicates 6 kyu](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1) - DONE
 16. [Unique In Order 6 kyu](https://www.codewars.com/kata/54e6533c92449cc251001667) - DONE
-16. [Kebabize 6 kyu](https://www.codewars.com/kata/57f8ff867a28db569e000c4a) - DONE
-16. [Detect Pangram 6 kyu](https://www.codewars.com/kata/545cedaa9943f7fe7b000048) - DONE
-17. [Find the odd int 6 kyu](https://www.codewars.com/kata/54da5a58ea159efa38000836) - DONE
-18. [Build a pile of Cubes 6 kyu](https://www.codewars.com/kata/5592e3bd57b64d00f3000047) - DONE
+17. [Kebabize 6 kyu](https://www.codewars.com/kata/57f8ff867a28db569e000c4a) - DONE
+18. [Detect Pangram 6 kyu](https://www.codewars.com/kata/545cedaa9943f7fe7b000048) - DONE
+19. [Find the odd int 6 kyu](https://www.codewars.com/kata/54da5a58ea159efa38000836) - DONE
+20. [Build a pile of Cubes 6 kyu](https://www.codewars.com/kata/5592e3bd57b64d00f3000047) - DONE
