@@ -21,3 +21,4 @@
 19. [Find the odd int 6 kyu](https://www.codewars.com/kata/54da5a58ea159efa38000836) - DONE
 20. [Build a pile of Cubes 6 kyu](https://www.codewars.com/kata/5592e3bd57b64d00f3000047) - DONE
 21. [Duplicate Encoder 6 kyu](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c) - DONE
+22. [Reverse every other word in the string 6 kyu](https://www.codewars.com/kata/58d76854024c72c3e20000de) - DONE
