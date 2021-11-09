@@ -22,3 +22,4 @@
 20. [Build a pile of Cubes 6 kyu](https://www.codewars.com/kata/5592e3bd57b64d00f3000047) - DONE
 21. [Duplicate Encoder 6 kyu](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c) - DONE
 22. [Reverse every other word in the string 6 kyu](https://www.codewars.com/kata/58d76854024c72c3e20000de) - DONE
+23. [Meeting 6 kyu](https://www.codewars.com/kata/59df2f8f08c6cec835000012) - DONE
