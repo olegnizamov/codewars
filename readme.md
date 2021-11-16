@@ -25,3 +25,4 @@
 23. [Meeting 6 kyu](https://www.codewars.com/kata/59df2f8f08c6cec835000012) - DONE
 24. [Who likes it? 6 kyu](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) - DONE
 25. [Array.diff 6 kyu](https://www.codewars.com/kata/523f5d21c841566fde000009) - DONE
+26. [First Variation on Caesar Cipher 5 kyu](https://www.codewars.com/kata/5508249a98b3234f420000fb) - DONE
