@@ -28,3 +28,4 @@
 26. [First Variation on Caesar Cipher 5 kyu](https://www.codewars.com/kata/5508249a98b3234f420000fb) - DONE
 27. [Persistent Bugger. 6 kyu](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec) - DONE
 28. [Strings Mix 4 kyu](https://www.codewars.com/kata/5629db57620258aa9d000014) - DONE
+29. [Sudoku Solver 3 kyu](https://www.codewars.com/kata/5296bc77afba8baa690002d7) - DONE
