@@ -29,3 +29,4 @@
 27. [Persistent Bugger. 6 kyu](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec) - DONE
 28. [Strings Mix 4 kyu](https://www.codewars.com/kata/5629db57620258aa9d000014) - DONE
 29. [Sudoku Solver 3 kyu](https://www.codewars.com/kata/5296bc77afba8baa690002d7) - DONE
+30. [Mystery Class 3 kyu](https://www.codewars.com/kata/5d7169ce7bf8d000180c7fe9) - DONE
